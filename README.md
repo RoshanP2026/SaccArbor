@@ -7,7 +7,7 @@
 
 **SaccArbor** is a full-stack diagnostic decision-support tool that predicts diabetes risk from clinical measurements. It pairs a tuned **Random Forest** classifier - trained and evaluated on the Pima Indians Diabetes Dataset - with an interactive **React/TypeScript** dashboard, so predictions, model performance, and exploratory data analysis are all explorable in one place.
 
-<img src="logo.png" alt="Logo" width="190px">
+<img src="logo.svg" alt="Logo" width="190px">
 
 ---
 
