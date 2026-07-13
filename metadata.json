@@ -1,0 +1,6 @@
+{
+  "name": "SaccArbor",
+  "description": "A high-fidelity clinical diabetes risk prediction system combining advanced ML evaluation pipelines, predictive analysis, and visual diagnostics support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
