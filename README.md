@@ -90,13 +90,13 @@ Model training uses the **Pima Indians Diabetes Dataset**, originally curated by
 - **Cohort** — 768 female patients of Pima Indian heritage, aged 21+
 - **Features** — `Pregnancies`, `Glucose`, `BloodPressure`, `SkinThickness`, `Insulin`, `BMI`, `DiabetesPedigreeFunction`, `Age`
 
-### 📚 Dataset Citation & Source
+## 📚 Dataset Citation & Source
 
-**Source**: National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)  
-**Repository**: UCI Machine Learning Repository  
-**Dataset URL**: https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes  
-**Citation**:  
-Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). *Using the ADAP learning algorithm to forecast the onset of diabetes mellitus*. In Proceedings of the Symposium on Computer Applications in Medical Care (pp. 261--265). IEEE Computer Society Press.
+**Source:** UCI Machine Learning Repository (Hosted on Kaggle by uciml)
+**Original Data Provider:** National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+**Dataset Repository:** Kaggle
+**Dataset URL:** https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+**Original Research Citation:** Smith, J. W., Everhart, J. E., Dickson, W. C., Knowler, W. C., & Johannes, R. S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. Proceedings of the Symposium on Computer Applications in Medical Care, 261–265. IEEE Computer Society Press.
 
 ---
 
@@ -146,10 +146,6 @@ The tuned Random Forest is used in production for its balance of ROC-AUC and F1 
 - [ ] CI pipeline for automated retraining and testing
 
 ---
-
-## 📄 License
-
-Licensed under the MIT License — see [`LICENSE`](./LICENSE) for details.
 
 ## ✍️ Author
 
