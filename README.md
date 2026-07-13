@@ -38,25 +38,37 @@ The Python pipeline produces the trained classifier and preprocessing artifacts;
 
 ```
 SaccArbor/
-├── app.py                    # Python reference dashboard entry point
-├── train.py                  # Model training & evaluation pipeline
-├── utils.py                  # Preprocessing & serialization utilities
-├── notebook.ipynb            # Exploratory analysis & experimentation notebook
-├── diabetes.csv              # Pima Indians Diabetes Dataset
-├── requirements.txt          # Python dependencies
-│
-├── App.tsx                   # Root React application component
-├── main.tsx                  # React application entry point
-├── PredictionPanel.tsx        # Risk prediction UI
-├── PerformanceMatrix.tsx      # Model performance visualization
-├── EdaCharts.tsx               # Exploratory data analysis charts
-├── WorkspaceExplorer.tsx      # Dataset / artifact explorer UI
-├── server.ts                  # Backend server for the web application
-├── types.ts                   # Shared TypeScript types
-├── index.html / index.css     # Application shell and styling
-├── vite.config.ts / tsconfig.json
-├── package.json / package-lock.json
-└── metadata.json
+├── app.py            
+├── Debug1.png        
+├── App.tsx             
+├── diabetes.csv       
+├── EdaCharts.tsx             
+├── index.css      
+├── index.html            
+├── Issue1.png                 
+├── Issue2.png      
+├── logo.svg     
+├── main.tsx              
+├── metadata.json  
+├── model.pkl                
+├── notebook.ipynb               
+├── package.json   
+├── vite.config.ts 
+├── tsconfig.json
+├── PerformanceMatrix.tsx
+├── PredictionPanel.tsx
+├── README.md
+├── requirements.txt
+├── roshan_perera.png
+├── scaler.pkl
+├── server.ts
+├── train.py
+├── types.ts
+├── utils.py
+├── WorkspaceExplorer.tsx
+├── demo1.png
+├── demo2.png
+└── package-lock.json 
 ```
 
 ---
